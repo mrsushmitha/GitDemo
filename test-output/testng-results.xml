@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5494" started-at="2020-06-10T20:28:37Z" finished-at="2020-06-10T20:28:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5494" started-at="2020-06-10T20:28:37Z" finished-at="2020-06-10T20:28:43Z">
+      <class name="ex1.ExtentReportDemo.ExtentEx1">
+        <test-method status="PASS" signature="config()[pri:0, instance:ex1.ExtentReportDemo.ExtentEx1@55ca8de8]" name="config" is-config="true" duration-ms="167" started-at="2020-06-10T16:28:37Z" finished-at="2020-06-10T16:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="initialDemo()[pri:0, instance:ex1.ExtentReportDemo.ExtentEx1@55ca8de8]" name="initialDemo" duration-ms="5314" started-at="2020-06-10T16:28:37Z" finished-at="2020-06-10T16:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialDemo -->
+        <test-method status="PASS" signature="end()[pri:0, instance:ex1.ExtentReportDemo.ExtentEx1@55ca8de8]" name="end" is-config="true" duration-ms="0" started-at="2020-06-10T16:28:43Z" finished-at="2020-06-10T16:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- ex1.ExtentReportDemo.ExtentEx1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
